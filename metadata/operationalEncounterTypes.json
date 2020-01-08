@@ -1,0 +1,69 @@
+{
+  "organisationName": "Jashoda Narottam Public Charitable Trust",
+  "operationalEncounterTypes": [
+    {
+      "uuid": "7ea5120f-8e97-480c-87d6-35a926aa6b6c",
+      "name": "Eligible Couple Followup",
+      "encounterType": {
+        "uuid": "c487771e-738b-41f2-852e-d60c25d8afea"
+      }
+    },
+    {
+      "uuid": "984e4ed5-3a70-4691-829b-f1c3e82d837f",
+      "name": "ANC",
+      "encounterType": {
+        "uuid": "0a0504d7-a420-4b00-ab03-c620071efa41"
+      }
+    },
+    {
+      "uuid": "333b12a7-d21e-4f19-89ac-a82484bae8e7",
+      "name": "Delivery Form",
+      "encounterType": {
+        "uuid": "f1dbb45f-ed4a-4696-a68d-23cce75afc6f"
+      }
+    },
+    {
+      "uuid": "8ffacbcf-518f-45eb-a524-a425a36aab3f",
+      "name": "Birth Form",
+      "encounterType": {
+        "uuid": "7101cfc3-1e1c-4535-adbb-871179f9ddd8" 
+      }
+    },
+    {
+      "uuid": "659323b5-b9b8-41d8-b4e6-223c33d25495",
+      "name": "Child PNC",
+      "encounterType": {
+        "uuid": "9de58542-d280-4041-b879-5e7a5ff83fc2",
+        "name": "Child PNC" 
+      }
+    },
+    {
+      "uuid": "fb4ebfa4-ede7-4d48-85dc-8ac0eb72c96b",
+      "name": "Abortion Form",
+      "encounterType": {
+        "uuid": "ec4af29e-049d-4e3a-aef1-b660b74706ff"
+      }
+    },
+    {
+      "uuid": "b7867b79-4037-4c6d-9e65-03283b78bd5b",
+      "name": "Abortion Followup",
+      "encounterType": {
+        "uuid": "d029ef9a-04ca-4364-b447-9a2c1f0e2fa9"
+      }
+    },
+    {
+      "uuid": "6c5d47ee-b582-45aa-9610-fb6b6593f570",
+      "name": "PNC",
+      "encounterType": {
+        "uuid": "a2e2aee7-5226-4a94-9cec-00e5bfa137a4"
+      }
+    },
+    {
+      "uuid": "65fe2029-a5d8-455d-980e-c8a57576d8df",
+      "name": "Child Followup",
+      "encounterType": {
+        "uuid": "3348db59-a01d-447e-a4b6-0d369023152d"
+      }
+    }
+  ]
+}

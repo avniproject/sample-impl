@@ -10,7 +10,8 @@ module.exports = IDI.configure(
     secrets: "../secrets.json",
     files: {
       adminUsers: {
-        dev: ["users/admin-user.json"]
+        dev: ["users/admin-user.json"],
+        staging: ["users/admin-user.json"]
       },
       forms: [
         "forms/Registration.json",
@@ -49,7 +50,8 @@ module.exports = IDI.configure(
       subjectTypes: ["subjectTypes.json"],
       operationalSubjectTypes: ["metadata/operationalSubjectTypes.json"],
       users: {
-        dev: ["users/dev-users.json"]
+        dev: ["users/dev-users.json"],
+        staging: ["users/dev-users.json"]
       },
       rules: ["./rules.js"],
       organisationSql: [

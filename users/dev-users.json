@@ -3,7 +3,7 @@
     "uuid": "a7e82546-0d67-4890-bb6b-9ad1a92be2f7",
     "name": "dev@jnpct",
     "password": "password",
-    "email": "openchssupport+staging+sewa@samanvayfoundation.org",
+    "email": "avnisample@example.com",
     "phoneNumber": "+919999999999",
     "organisationUUID": "2a8b0070-8869-41b6-94f8-c90a35d094f9",
     "operatingIndividualScope": "ByCatchment",
@@ -11,5 +11,4 @@
     "admin": false,
     "orgAdmin": false
   }
-
 ]
